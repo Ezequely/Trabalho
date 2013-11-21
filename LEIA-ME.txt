@@ -1,0 +1,5 @@
+Conteúdo
+- guias de teste: os guias de teste gerados pela BETA que serão utilizados para implementar a suite de testes inicial;
+- libs: bibliotecas necessárias para executar a PIT;
+- modelo B: modelos B que serviram de base para a implementação (apenas para referência);
+- projeto: esqueleto do projeto.
